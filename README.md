@@ -1,6 +1,6 @@
 # apple
 
-# ![test](images\test.jpg)
+# ![test](images/test.jpg)
 
 fff
 
